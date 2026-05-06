@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @AaronGirvin
-- 👀 I’m interested in Software and Computer Engineering
-- 🌱 I’m currently studying Computer Systems Engineering at the University of Warwick
-- 📫 How to reach me: aarongirvin@protonmail.com
+@AaronGirvin BEng Computer Systems Eningeering, MSc Artificial Intelligence (in progress)
 
 <!---
 AaronGirvin/AaronGirvin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
